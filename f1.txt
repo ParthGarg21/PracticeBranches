@@ -1,1 +1,3 @@
+I have edited this file.
+Now this contains some new lines as well.
 This is a text file
